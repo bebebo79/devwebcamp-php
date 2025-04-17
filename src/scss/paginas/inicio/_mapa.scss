@@ -1,0 +1,15 @@
+.mapa {
+    height: 45rem;
+    margin-top: 5rem;
+
+    &__titulo{
+        margin:0;
+        text-align: left;
+        font-size: 2rem;
+        
+    }
+    &__descripcion {
+        font-size: 1.8rem;
+        margin: 0;
+    }
+}
